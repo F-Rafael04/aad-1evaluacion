@@ -12,7 +12,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Aad1evaluacion">
         <activity
-            android:name=".MainActivity"
+            android:name="edu.iesam.aad_1evaluacion.MainActivity"
             android:exported="true"
             android:windowSoftInputMode="adjustResize">
             <intent-filter>
